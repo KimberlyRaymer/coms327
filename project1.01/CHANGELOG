@@ -1,0 +1,7 @@
+(num) Day             Time        Description
+(1) 1/26/2023       9:32pm      Setting up the code to understand what is needed for building a terrain
+(2) 1/31/2023       7:49pm      Creating game board
+                    9:07pm      Randomize region sizes
+                    10:33pm     Create regions into circles       
+(3) 2/1/2023        11:31am     Creating roads
+(4) 2/1/2023        8:02pm      Fill an empty space in the map with random items
