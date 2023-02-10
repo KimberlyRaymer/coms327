@@ -1,0 +1,3 @@
+This program generates a world (2D array of 401x401) in which a player may move north, south, east, west, fly, and optionally quit the program.
+Coordinates will be displayed of which map the player has landed or moved to. A new map will be generated if a player has not encountered a spot
+before. If the player has moved to a coordinate before, the map that was there previously will show again.
