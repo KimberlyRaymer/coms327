@@ -1,0 +1,4 @@
+This program now allows the player to encounter pokemon in the grass (symbolized by ":"). 
+When encountering the pokemon the terminal will show the level, health, attack, defense, 
+speed, special attack, and special defense along with the name of the pokemon. The player 
+has a 10% likely chance of encountering a pokemon in the grass.

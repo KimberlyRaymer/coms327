@@ -1,0 +1,12 @@
+(num)   Day             Time            Description
+(1)     4/11/2023       7:00pm-9:00pm   Download files
+                                        Create pokemon.cpp and pokemon.h
+                                        Create attributes for pokemon
+                                        Parse for pokemon stats
+(2)     4/12/2023       2:00pm-4:30pm   Calculate health and other stat
+                        6:00pm-8:15pm   Calculate level
+                                        Debug pokemon.cpp
+(3)     4/13/2023        12:40am-6:20am Create io_pokemon
+                                        Add encountering pokemon (10%) when pc moves
+                                        Debug pokemon.cpp
+                                        Fix print statement for pokemon stats
