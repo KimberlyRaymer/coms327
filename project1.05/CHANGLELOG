@@ -1,0 +1,24 @@
+(num)   Day             Time            Description
+(1)     3/07/2023       2:00pm-3:00pm   Install ncurses library
+(2)     3/17/2023       11:00am-12:45pm Fix bug issues in 1.04 solution
+                        12:45-1:20pm    Debug gameloop and printmap (game prints stair like and horizontally)
+                        1:20-2:15pm     Create switch cases
+                        2:15-2:45pm     Implement movement feature for PC
+                        2:45-3:20pm     Save PC's new movement
+                        3:20-5:30pm     Check if PC in pokeMart or pokeCenter and allow "in" and "out"
+                        5:30-7:00pm     Create pokeBattle() function and have PC fight NPC
+                        7:00-7:20pm     Debug battle with pc and npc
+                        7:20-9:00pm     Create flag for quitting the game and fix gameloop()
+                        9:00-10:15pm    Create printTrainers() for case 't'
+                        10:15-12:00am   Debug pc hitting INT_MAX object (keeps getting stuck and crash the window)
+                        12:00-2:00am    Implement colors for the map, debug colors for the map
+                        2:00-3:00am     Last ditch effort in debugging pc when hitting INT_MAX
+(3)     3/19/2023       1:00-3:00pm     Debug pc when hitting object of cost of INT_MAX and debug when battling npc
+(4)     3/21/2023       4:00-6:00pm     Fixed pc when hitting object of cost of INT_MAX
+                                        Fixed pokeBattle() when pc meets npc
+                                        Check for 8 blocks surrounding pc
+                                        Create "defeated" flag for pokeBattle()
+                                        Create if statements for all npcs when battling
+(5)     3/22/2023       1:00-3:30pm     Implement nTrainers() and list_trainers() for scrolling
+                                        Debug the scrolling feature
+                                        Cut my losses on trying to get scrolling feature to work

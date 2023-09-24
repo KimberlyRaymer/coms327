@@ -1,0 +1,10 @@
+The added new features for the game utilizes ncurses. The map now has color. The pc may move in any which way they wish, 
+block by block. The pc can encouter other trainers and battle. The program shows a list of all trainers and where they 
+are located relative to the pc. The user can quite the game.
+
+
+Additional Comments:
+
+Sometimes the pc will randomnly go in a battle even though there is no npc nearby.
+I have a feeling this might be the if statements for pc when checking for the npc (line 2516 - 2527).
+However, I cannot seem to find the error within the if statements that would cause this.
