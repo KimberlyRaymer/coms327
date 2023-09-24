@@ -1,0 +1,14 @@
+(num)   Day             Time            Description
+(1)     5/03/2023       3:00pm-6:00pm   Implement the game board
+                                        Implement rule checking for wins
+                                        Prompt user to put column number and player name
+(2)     5/04/2023       2:00pm-7:00pm   Check if spot is empty to drop chip
+                                        Check if board is full
+                                        Create new game option
+(3)     5/05/2023       11:am-6:00pm    Create win screen
+                                        Debug board
+                                        Debug board because of ncurses
+                                        Check if player.name is similar
+                                        Check if column number is a digit
+                                        Debug column number intake
+                                        Implement randomn AI

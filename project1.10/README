@@ -1,0 +1,5 @@
+This program is a connect 4 game that implements all the rules of connect 4. 
+The user may choose to play against another person or an AI that chooses randomnly.
+Incorporating ncurses shows this game in color where the two players are either 
+red (X) or one blue (O). Players may choose their own names or the AI's name and face off. 
+In the end there's a nice surprise to the winner and a message to the loser hehehe ( •̀ ω •́ )✧.
