@@ -1,0 +1,5 @@
+This program implements new characters that will travel around the map while following the constraints given to them. 
+'@' is the player which is randomnly positioned in the map as long as they do not end up in the middle of terrain in which they 
+cannot get out of. All characters accrue a "cost" when making a move, but each have different weight costs. For example, a 
+hiker has less cost in hiking the mountains than a rival, who cannot travel mountains. The terminal outputs these costs for hiker 
+and rival along with the map that it base offs of.
