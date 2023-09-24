@@ -1,0 +1,3 @@
+The pokemon game now has been converted to all cpp. The pc may now move into other maps via gates or flying. 
+The user may press 'f' to activate fly and then put in coordinates (with the -200, 200 range) to which map 
+they would like to go to. Otherwise, the user may move the pc to the gate and enter into the map.

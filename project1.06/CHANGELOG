@@ -1,0 +1,9 @@
+(num)   Day             Time            Description
+(1)     3/28/2023       11:00am-4:00pm  Change files to cpp and casts literally everything
+                                        Fix pair_t (change from int16_t to int)
+                                        debug io.cpp and fix casts
+                        4:00pm-6:00pm   Implement fly
+(2)     3/29/2023       4:00pm-8:30pm   Implement exitMap
+                                        Add to game_loop
+                                        debug
+                                        post bug bounty
