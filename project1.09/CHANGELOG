@@ -1,0 +1,13 @@
+(num)   Day             Time            Description
+(1)     4/19/2023       4:00pm-9:00pm   Download files
+                                        Create io_trainer()
+                                        Create io_fightPokemon()
+                                        fix pokemon.h
+(2)     4/12/2023       11:00pm-12:30am Calculate calculate stats
+                                        debug io_trainer
+                                        debug io_fightPokemon
+(3)     4/13/2023       12:40am-6:20am Create io_getItem and io_backpack
+                                        debug io_getItem and io_backpack
+                                        fix io.cpp
+                                        debug everything T^T
+(4)     4/21/2023       11:00am-4:00pm  debug everything again T^T

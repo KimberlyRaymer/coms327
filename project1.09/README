@@ -1,0 +1,3 @@
+This program should now be able to fight pokemon and other trainers who are equipped with their own pokemon. 
+There should be two moves available for the pokemon to use. In the fights the HP meter should be visibly going down.
+In fighting pokemon, there are options to fight, use bag, or runaway. Same for trainers except running away.
