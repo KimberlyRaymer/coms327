@@ -1,0 +1,15 @@
+(num)   Day             Time            Description
+(1)     4/4/2023       4:00pm-8:00pm    Download files
+                                        Create pokedex and pokedex.h
+                                        Implement code for accessing files
+                                        Parse pokemon files
+(2)     4/5/2023       11:00am-3:30pm   Debug parse pokemon
+                                        Change method of parsing
+                                        Debug parse pokemon
+                        6:00pm-8:15pm   Debug parse pokemon
+                                        Copy and adjust method for 
+                                            pokemon for all other files
+(3)     4/6/2023        2:40am-5:20am   Debug for reading last column
+                                            if empty
+                                        Correct all other methods
+                                        Fix pathway access

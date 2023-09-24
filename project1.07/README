@@ -1,0 +1,7 @@
+This program now can parse files of pokemon, moves, pokemon_moves, 
+pokemon_species, experiene, type_names, pokemon_stats, stats, and 
+pokemon_types. The terminal will output their categories line by line 
+and in order.
+
+Note:
+There are alternative methods to checkout if you'd like in the pokedex.cpp
